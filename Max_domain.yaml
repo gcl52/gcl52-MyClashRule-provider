@@ -16,3 +16,4 @@ payload:
   - 'cf.asia.prd.media.max.com'
   - 'default.beam-latam.prd.api.discomax.com'
   - 'default.any-latam.prd.api.discomax.com'
+  - 'gcp.asia.prd.media.max.com'
